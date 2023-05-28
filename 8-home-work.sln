@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.5.33516.290
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "8-home-work", "8-home-work\8-home-work.csproj", "{A93F3653-7DED-48BF-86FF-9A7311F0FBBE}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "8-home-work-1", "8-home-work\8-home-work-1.csproj", "{A93F3653-7DED-48BF-86FF-9A7311F0FBBE}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Example_812_List", "..\..\..\Desktop\Кирилл\Лекции C#\8\Theme_08\Example_812_List\Example_812_List.csproj", "{7DFBA321-3E9E-40FE-9DAF-C09B9FA395E9}"
 EndProject
@@ -14,8 +14,6 @@ EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Example_823_Stack", "..\..\..\Desktop\Кирилл\Лекции C#\8\Theme_08\Example_823_Stack\Example_823_Stack.csproj", "{EBFBF2FE-3ED2-42AB-91FA-BF713C8CAD58}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Example_813_ListWorker", "..\..\..\Desktop\Кирилл\Лекции C#\8\Theme_08\Example_813_ListWorker\Example_813_ListWorker.csproj", "{6AFE7356-80CD-4EFA-AD9D-1B214EBAB01D}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Example_810_CollectionsIntro", "..\..\..\Desktop\Кирилл\Лекции C#\8\Theme_08\Example_810_CollectionsIntro\Example_810_CollectionsIntro.csproj", "{6592B708-1654-40AD-A76A-F8D59C0FA1F4}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Example_821_OtherCollections", "..\..\..\Desktop\Кирилл\Лекции C#\8\Theme_08\Example_821_OtherCollections\Example_821_OtherCollections.csproj", "{D482B3C3-AD74-4741-B176-758C88207305}"
 EndProject
@@ -49,10 +47,6 @@ Global
 		{6AFE7356-80CD-4EFA-AD9D-1B214EBAB01D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6AFE7356-80CD-4EFA-AD9D-1B214EBAB01D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6AFE7356-80CD-4EFA-AD9D-1B214EBAB01D}.Release|Any CPU.Build.0 = Release|Any CPU
-		{6592B708-1654-40AD-A76A-F8D59C0FA1F4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{6592B708-1654-40AD-A76A-F8D59C0FA1F4}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{6592B708-1654-40AD-A76A-F8D59C0FA1F4}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{6592B708-1654-40AD-A76A-F8D59C0FA1F4}.Release|Any CPU.Build.0 = Release|Any CPU
 		{D482B3C3-AD74-4741-B176-758C88207305}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{D482B3C3-AD74-4741-B176-758C88207305}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D482B3C3-AD74-4741-B176-758C88207305}.Release|Any CPU.ActiveCfg = Release|Any CPU
