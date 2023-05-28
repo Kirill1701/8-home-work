@@ -5,18 +5,6 @@ VisualStudioVersion = 17.5.33516.290
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "8-home-work-1", "8-home-work\8-home-work-1.csproj", "{A93F3653-7DED-48BF-86FF-9A7311F0FBBE}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Example_812_List", "..\..\..\Desktop\Кирилл\Лекции C#\8\Theme_08\Example_812_List\Example_812_List.csproj", "{7DFBA321-3E9E-40FE-9DAF-C09B9FA395E9}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Example_811_MyCollections", "..\..\..\Desktop\Кирилл\Лекции C#\8\Theme_08\Example_811_MyCollections\Example_811_MyCollections.csproj", "{56782422-E493-44AC-8618-3543914A07BB}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Example_822_Dictionary", "..\..\..\Desktop\Кирилл\Лекции C#\8\Theme_08\Example_822_Dictionary\Example_822_Dictionary.csproj", "{3DF43BA0-9999-47F3-BA72-193EB9642732}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Example_823_Stack", "..\..\..\Desktop\Кирилл\Лекции C#\8\Theme_08\Example_823_Stack\Example_823_Stack.csproj", "{EBFBF2FE-3ED2-42AB-91FA-BF713C8CAD58}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Example_813_ListWorker", "..\..\..\Desktop\Кирилл\Лекции C#\8\Theme_08\Example_813_ListWorker\Example_813_ListWorker.csproj", "{6AFE7356-80CD-4EFA-AD9D-1B214EBAB01D}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Example_821_OtherCollections", "..\..\..\Desktop\Кирилл\Лекции C#\8\Theme_08\Example_821_OtherCollections\Example_821_OtherCollections.csproj", "{D482B3C3-AD74-4741-B176-758C88207305}"
-EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,30 +15,6 @@ Global
 		{A93F3653-7DED-48BF-86FF-9A7311F0FBBE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A93F3653-7DED-48BF-86FF-9A7311F0FBBE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A93F3653-7DED-48BF-86FF-9A7311F0FBBE}.Release|Any CPU.Build.0 = Release|Any CPU
-		{7DFBA321-3E9E-40FE-9DAF-C09B9FA395E9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{7DFBA321-3E9E-40FE-9DAF-C09B9FA395E9}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{7DFBA321-3E9E-40FE-9DAF-C09B9FA395E9}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{7DFBA321-3E9E-40FE-9DAF-C09B9FA395E9}.Release|Any CPU.Build.0 = Release|Any CPU
-		{56782422-E493-44AC-8618-3543914A07BB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{56782422-E493-44AC-8618-3543914A07BB}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{56782422-E493-44AC-8618-3543914A07BB}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{56782422-E493-44AC-8618-3543914A07BB}.Release|Any CPU.Build.0 = Release|Any CPU
-		{3DF43BA0-9999-47F3-BA72-193EB9642732}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{3DF43BA0-9999-47F3-BA72-193EB9642732}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{3DF43BA0-9999-47F3-BA72-193EB9642732}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{3DF43BA0-9999-47F3-BA72-193EB9642732}.Release|Any CPU.Build.0 = Release|Any CPU
-		{EBFBF2FE-3ED2-42AB-91FA-BF713C8CAD58}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{EBFBF2FE-3ED2-42AB-91FA-BF713C8CAD58}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{EBFBF2FE-3ED2-42AB-91FA-BF713C8CAD58}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{EBFBF2FE-3ED2-42AB-91FA-BF713C8CAD58}.Release|Any CPU.Build.0 = Release|Any CPU
-		{6AFE7356-80CD-4EFA-AD9D-1B214EBAB01D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{6AFE7356-80CD-4EFA-AD9D-1B214EBAB01D}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{6AFE7356-80CD-4EFA-AD9D-1B214EBAB01D}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{6AFE7356-80CD-4EFA-AD9D-1B214EBAB01D}.Release|Any CPU.Build.0 = Release|Any CPU
-		{D482B3C3-AD74-4741-B176-758C88207305}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{D482B3C3-AD74-4741-B176-758C88207305}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{D482B3C3-AD74-4741-B176-758C88207305}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{D482B3C3-AD74-4741-B176-758C88207305}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

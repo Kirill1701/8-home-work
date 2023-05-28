@@ -9,6 +9,7 @@ namespace _8_home_work
 {
     internal class Program
     {
+        // Заполнение List случайными числами в диапазоне от 0 до 100
         static void NumbersAdd(List<int> numbers)
         {
             Random random = new Random();
@@ -18,6 +19,7 @@ namespace _8_home_work
             Console.WriteLine("Выполнен NumbersAdd");
         }
 
+        // Вывод List на экран
         static void Print(List<int> numbers)
         {
             foreach (int number in numbers)
@@ -25,6 +27,7 @@ namespace _8_home_work
             Console.WriteLine("Выполнен Print");
         }
 
+        // Удаление чисел, имеющими значение от 25 до 50
         static void Remove(List<int> numbers)
         {
             numbers.RemoveAll(number => number > 25 && number < 50);
